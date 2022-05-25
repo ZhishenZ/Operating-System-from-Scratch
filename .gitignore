@@ -1,0 +1,8 @@
+achieve/
+configfiles/
+
+*.o
+*.img
+kernel
+*.pdf
+
